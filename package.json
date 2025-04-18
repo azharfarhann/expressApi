@@ -1,0 +1,27 @@
+{
+  "name": "expressapi",
+  "version": "1.0.0",
+  "description": "this is an expressApi project",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azharfarhann/expressApi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/azharfarhann/expressApi/issues"
+  },
+  "homepage": "https://github.com/azharfarhann/expressApi#readme",
+  "dependencies": {
+    "axios": "^1.8.4",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "nodemon": "^3.1.9"
+  }
+}
